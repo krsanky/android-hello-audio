@@ -48,10 +48,11 @@ public class HelloAudioActivity extends Activity {
 		case KeyEvent.KEYCODE_DPAD_UP:
 			resId = R.raw.bender_7_billion_ton_r_m;
 			break;
-		/*
-	 	case KeyEvent.KEYCODEDPADDOWN:
-			resId = R.raw.down; 
+		
+	 	case KeyEvent.KEYCODE_DPAD_DOWN:
+			resId = R.raw.kirby_style_laser; 
 			break;
+		/*
 	 	case KeyEvent.KEYCODEDPADLEFT: 
 			resId = R.raw.left;
 			break;
